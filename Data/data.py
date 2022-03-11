@@ -1,1 +1,2 @@
-print("This is data")
+print("This is data");
+print("Hi");
